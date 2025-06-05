@@ -524,6 +524,22 @@ Prowizje westminsterskie - 1259 - jeszcze dalej
 Szymon de Montfort - 1265 - zwołano pierwszy parlament
 
 # 12. Kryzys XIV w. 
+## Praca grupowe 
+Wyciągniąc przynajmniej 4 wnioski z kryzysu
 
+1. Kryzys demograficzny
+2. Wioski pozbawione kolonistów - upadek rolnictwa
+3. upadek struktur kościelnych
+4. Głód i bieda
+5. Kryzys klimatyczny
+6. Kryzys stosunków lennych, ponieważ hrabia został księciem
 
+Drugi tekst
+1. podobieństwo do francji 
+2. Król anglii to ryszard II      
+3. migracja do miast
+4. wzrost pozycji chłopa
+5. świadomość
+6. Chcieli wypłaty
+7. Upadek znaczenia wiejskiej szlachty
 
