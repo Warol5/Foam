@@ -231,5 +231,10 @@ idy 13,15
 wypadły dni póxniej w mar mai jul oi
 Pierwsza indykcja zaczeła się 3 rok pne 
 
-
-
+# Paleografia
+suspensja - końcówka 
+kontrakcja - ze środka
+Przez znak specjalny
+nomina sacra 
+Promulgacja - chęć
+    

@@ -522,4 +522,8 @@ parlament powstaje z rady królewskiej
 Prowizje oksfordzkie - 1258 - chciano oczyścić administrację z nadużyć
 Prowizje westminsterskie - 1259 - jeszcze dalej 
 Szymon de Montfort - 1265 - zwołano pierwszy parlament
-2
+
+# 12. Kryzys XIV w. 
+
+
+

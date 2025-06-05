@@ -112,3 +112,13 @@ Szpak:
 
 # Łotman
 
+# łuczewski
+Naród jest ruchem ideologów narodowych
+Ruch wskazuje na dynamikę 
+Konretni ludzie są aktywni i świadomi 
+Ruch ideologów jest pod kategorią ruchu społecznego
+Relatywizm niedokreśloność
+Jednostka ma tożsamość narodową
+Jednostka musi zinternalizować ideologię narodową 
+Dyskurs - eksternalizacja tożsamości narodowej
+

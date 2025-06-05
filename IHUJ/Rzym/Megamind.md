@@ -78,7 +78,7 @@ Pierwsze cztery trybusy to były trybusy miejskie
 
 Zgromadzenie concilium plebis (zgromadzenie ludowe):
 Powstało już w okresie republikańskim. 
-Zasiadali w nim plebejusze, nie znaczy to że nie było ich też w innych zgromadzeniach, ale mieli swoje.
+Zasiadali w nim plebejuse, nie znaczy to że nie było ich też w innych zgromadzeniach, ale mieli swoje.
 Zgromadzenie ludowe działało jako instytucja która wydawała ustawy wtedy nazywane ,,plebiscitum'', które dotyczyły różnych rozwiązania dotyczących plebejuszy.
 200 lat później zajmowali sie już ustawami dla wszystkich.
 Ustawy nazywamy ,,leges'' - najwyższy element decyzyjny w Rzymie. 
