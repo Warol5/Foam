@@ -591,7 +591,7 @@ Jakub de Vitry wpada na pomysł że będzie wykupywał niewolników i będzie ic
 Łacinniycy nie rozmywają się jednak religijnie.
 Łacinnicy nie zaczynają nosić bród.
 
-# Ostatni Mruk 13 - Wymiany handlowe 
+# Mruk 13 - Wymiany handlowe 
 Sukna z krajów zzalpejskich były więcej warte niż korzenie które trafiały ze wschodu na zachód - towar europejsik trafiał na wschód i był znacznej wartości. 
 Ibn dżubarj - napisał Rihle - opisywał mnóstwo karawan 
 Fatymidzi korzystali z ceł jako narzędzia kotroli tego, jakie towary przybywają na wschód.
