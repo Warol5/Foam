@@ -6,9 +6,10 @@
 - [x] 25.04 - Kolokwium Łacina rzeczowniki i przymiotniki wszystkich deklinacji
 - [x] 15.05 - termin dobosz, mapka rzym
 - [x] 27.05 - Drelich zerówka
-- [ ] 06.06 - zerówka Rzym o godzinie 11
+- [x] 06.06 - zerówka Rzym o godzinie 11 (ujebałem jak cwel)
 - [ ] 10.06 - zerówka Bizancjum
 - [ ] 12.06 - Drugi Dobosz
+- [ ] 16.06 - rzym
 - [x] 17.06 - Drelich
 - [ ] 18.06 - 9 witecki, nph o 13 w Tischnerze 
 - [ ] 23.06 - mrucus
