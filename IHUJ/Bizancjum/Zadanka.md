@@ -11,7 +11,7 @@ Euzebiusz z cezarei - de vita constantini
 Historia wojen - prokopiusz z cezarei pisze o wenedach 
 aleksjada - anna komnena
 dzieje - ammian marcelinus
-historia kościoła - sokrates scholastyk     
+historia kościoła - sokrates scholastyk
 Biblioteka - focjusz prowadził spór o filoque i schizma antyfocjańska 
 Kronika - jan malalas za justyniana
 Getica - jordanes 
