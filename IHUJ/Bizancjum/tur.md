@@ -37,7 +37,7 @@ Egzarchat - namiestnicy cesarscy najważniejszych prowincji
 ekloga - opracowanie justyniańskiego zbioru prawa rzymskiego w języku greckim
 Gminy - na czele stoi biskup (mógł być nim każdy). Problem jest kiedy biskup ma żonę - wtedy musi odesłać ją do klasztoru. Synod lokalny w sertyce - tam postanowiono że wolno się odwoływać do biskupa rzymu. To synod lokalny ale jego postanowienie będzie szanowane powszechnie. Założenia były bardzo słuszne ale problem był ludzki?\
 Gwarda wareska - gwardia waregów powołana przez bazylego II 
-Henotikon - dokument akacjusza z 482 podkreślał nieomylność postanowień soborowych 
+Henotikon - dokument akacjusza z 482 wydany przez cesarza zenona podkreślał nieomylność postanowień soborowych miał zwalczać Monofizytyzm
 Indykcja - podatek w naturze
 Instytucje - podręcznik do szkolenia prawników
 Kwestor - prawnik cesarza za konstantyna
@@ -96,7 +96,7 @@ wikariusz - stał na czele diecezji
 527 - poczatek justyniana 
 529 - kodeks justyniana 
 532 - powstanie nika
-553 - Konstantynopol II - piąty sobór
+553 - Konstantynopol II - piąty sobór potępił monofizytów 
 610 - herakliusz obalił fokasa i objął władzę 
 614 - Zdobycie jerozolimy przez persów
 626 - Oblężenie awarsko-słowiańskie konstatynopola
@@ -162,8 +162,8 @@ Justynian II - cesarz - VII w.
 
 # Opisówki 
 Problem pojawienia się słowian: Pierwsze wzianki o słowianach pojawiają się u prokopiusza z cezarei i jordanesa w połowie VI w. Jordanes pisze o antach i sklawinach jendocześnie identyfikuje ich z wcześniejszymi wenedami 
-Początki dynastii macedońskiej 
-Stosunki religijne 451-787
+Początki dynastii macedońskiej - zaczeła się od bazylego I który został adoptowany przez Michała III po czym kazał go zamordowac
+Stosunki religijne 451-787 - 451 to sobór chalcedoński 787 to koniec pierwszego ikonoklazmu czyli sobór nicejski II.
 Najważniejsze problemy państwa w II połowie IX w. 
-Stosunki religijne 610-843
+Stosunki religijne 610-843 - 610 to objęcie władzy przez herakliusza, popierał on monoteletyzm, 680 czyli konstantynopol III potąpił monoteletyzm i potwierdził dwie wole i dwie natury chrystusa. 726 - Leon III rozpoczyna ikonoklazm. Jego syn Konstantyn V zwołał w 754 synod w Hierei. I ikonoklazm skończył się w 787 na nicejskim II. II ikonoklazm rozpoczął się w 814 przez Leona V Armeńczyka a zakończyła go w 843 cesarzowa Teodora. 
 
