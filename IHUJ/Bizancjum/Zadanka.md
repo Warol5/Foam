@@ -87,7 +87,7 @@ wikariusz - stał na czele diecezji
 330 - założenie konstantynopola
 378  - bitwa pod adrianopolem - umiera walens 
 381 - konstantynopol 
-395 - śmierć teodozjusza  
+395 - śmierć teodozjusza, dzieli między Arkadiusza i Honoriusza 
 410 - złupienie rzymu przez alaryka 
 431 - Efez 
 451 - Chalcedon, Attyla pokonany na Katalaunijskich Polach przez Aecjusza 
