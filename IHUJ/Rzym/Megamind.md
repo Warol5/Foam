@@ -432,3 +432,8 @@ Lukkulus dowodził siłami rzymskimi - był ulubieńcem sulli. w 74 udało mu si
 Lukullus był kojarzy z sullańczykami więc został odwołany, W 68 musiał wrócić do rzymu. Dowóctwo całkowite przejął Gnejusz Pompejusz Wielki
 Udało mu się rozprawić z mitrydatesem i tigranesem. Mitrydates się zabił a tigranes stał się jego klientem. Pompejusz buduje nowy porządek na wschodzie imperium romanum. Powstaje prowincja pont bitynia. Zlikwidował królewstwo Seleukidów. Zamienił syrię w prowincję rzymską.
 Pompejusz zaczął ustawiac na wschodzie klientów. 
+
+# 12. Do drugiej wojny domowej
+Sullańczycy sprawowali większą lub mniejszą wagę w senacie.
+Dopiero w roku 58 udało sie te kolegia odtworzyć i umożliwiono zrzeszanie się ludowi rzymskiemu. 
+Sprzysiężenie Katyliny - 
