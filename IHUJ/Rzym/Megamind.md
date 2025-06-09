@@ -437,3 +437,28 @@ Pompejusz zaczął ustawiac na wschodzie klientów.
 Sullańczycy sprawowali większą lub mniejszą wagę w senacie.
 Dopiero w roku 58 udało sie te kolegia odtworzyć i umożliwiono zrzeszanie się ludowi rzymskiemu. 
 Sprzysiężenie Katyliny - 
+W roku 63 dochodzi do spisku które jest wykryty przez Cycerona, doprowadza do ucieczki katyliny a w grudniu skazano go na śmierć bez możliwości odwołania się co było wbrew prawu przez co cezar głosował przez. Cycerona wspierał katon młodszy. Giną przywódcty ruchu w rzymie. 
+Odziały katyliny poniosły klęskę. W elicie rzymskiej pojawiały się pomysłu aby to pompejusz zajął się katyliną dlatego że nie chcieli mu dawać żadnych nadzwyczajnych uprawnień ani dać mu więcej chwały.
+Cezar był prześladowany przez Sullę, na krótko wrócił na mocy spisku Lepidusa. Cezar wyjeżdża na wschód w różnych miejscach, jest też u króla bityni nikomedesa IV, który zapisał w testamencie królestwo rzymowi. W latach 60 cezar buduję swoją karierę urzędniczą. 
+Mariusza spotkało damnatio memoriae, Cezar przywoływał swoim krewnym pamięć o mariuszu, co budowało jego pozycję po stronie popularów. 
+Cezar związuje się z przeciwnikiem pompejusza - krassusem który zostaje cenzorem, nadał obywatelstwo mieszkańcom italii północnej i pojawia się pomysł aby podporządkować rzymowi egipt na podstawie testamentu. Nie chciano dawać krassusowi dawać takiej możliwości dlatego mówiono że to był fejk. Pompejusz i Krassus byli zbyt popularni aby móc odnosic jakieś sukcesy. W obu tych inicjatywach gajusz juliusz cezar uczestniczył wspierając krassusa. Dodatkowo drugi Cenzor, Klintus Katullus nie zgodził się. Cezar był w stanie współpracować i z Krassusem i z Pompejuszem.
+Pompejusz przyniósł dużo pieniędzy do skarbca, żołnierzy i do samego siebie.
+Jego konkurenci robią wszystko żeby jego cele politczne zostały zniesione. 
+Pompejusz uśmiecha się do optymatów, jednak za bardzo przypomina on im sullę i był zagrożeniem dla republiki. 
+Krassus oparł się na ekwitach, chcąc obniżyć płacone przez nich podatki ze zbieranych podatków w azji , optymaci odrzucili też jego 
+Cezar o osiągnięciu konsulatu a po nim prowincji co dałoby mu możliwość osiągnięcia chwały wojskowej.
+Pompejusz i krassus chcieli obsadzić najwyższe urzędy swoimi ludźmi, optymaci robili wszystko żeby tak się nie stało. 
+Cezar wydał się im osobą idealną na urząd konsula, z nim mogli wpółpracować - podstawa dla pierwszego triumwiratu. Rzymianie nazywali go ,,amicitia'' albo ,,conspiratio''. Cyceron mówi o ,,wspólracy trzech szlachetnych ludzi''.60/59 ci panwoie już współpracują. Efektem jest wybór cezara na Konsula.
+Drugi triumwirat był oficjalny, pierwszy nie.
+Cezar realizuije wszystkie pomysły krassusa i pompejusza - dwie ustawy agralne, obniżenie opłat publikanom w azji, zatwierdzenie zdobyczy pompejusza na wschodzie ale wychodziły one pod jego imieniem. 
+Dzięki ustawom agralnym udało mu się zabezpieczyć ziemię dla weteranów pompejusza a dla ludu rozdał ager publicus. Zachował się jak Tyberiusz, przygotował ustawę i poszedł do senatu i kazał im szukać wad, po czym poszedł do zgromadzenia ludowego.
+Cezar za swoje działania zostaje nagrodzony, dostaje dowództwo w nad legionami w trzech prowincjach, dwóch galiach i ilryium w 59 (lex latinie). Mając do dyspozycji te 5 legionów mógł 
+Bardzo szybko dochodzi do rozłamów między nimi. Cezar zaczyna się wziązać z pompejuszem. Wymienia pompejusza pierwszego na obradach. Tricanaros (potwór o trzech głowach) - warro 
+Jest jeszcze jeden ośrodek decyzyjny w latach 50. Publiusz Klaudiusz Pulcher (Klodiusz). Klaudiusz Pulcher obraża posłów, burzy żołnierzy lukullusa, spotyka się w trakcie święta z żoną Gajusza Juliusza Cezara.
+Klaudiusz został trybunem plebejskim, został zaadoptowany do rodu plebejskiego, od tego momentu jest nazywany klodiuszem, początkowo współdziała z triumwirami. Klodiusz zaczyna budować program dla ludu. Projekt nadania zboża (frumentatio) za darmo. Co mogło kosztować dwa razy tyle co pompejusz przywiózł ze wschodu (nie do końca ale była to poważna kwota). Wchodzi ustawa o tym, że przedstawiciele populusu mogą działać w collegiach. Próbuje przeciwstawić się obstrucji zakazując oglądania nieba podczas obrad (tutaj Cezar go uprzedził nie wypuszczając drugiego konsula żeby nie mógł zgłosić obnutatio). Ustawa która mówi o tym, że cenzorowie mają mięć ograniczony wpływ na listę senatorów. Otaczają go zbrojne odziały przez de facto rządzi na ulicach rzymu. Klodiusz oblegajką w rzymie pompejusza przez trzy miesiące. Triumwirowie i senatorzy zaczynają organizwać własne grupy, na czele jednej z nich stanie tytus aniusz milon, te dwie grupy będą ze sobą walczyć opierając się o weteranów i colegia. Cezar w tym czasie podbijał sobie galię.
+W 56 Cezar spotyka się z krassusem w rawennie, następnie w luce dochodzi do odrodzenia amicitie.
+Teraz to cezar był najbardziej wpływowy - podbił galię, wyprawił się do brytani. Stał się nowa ikoną rzymu.
+Na rok 55 pompejusz i krassus będą starać się o konsulat. Po nim chcą zostać namiestnikami. Krassus chciał wyprawić się na wschód co skończyło się porażką i jego śmiercią pod carrhae. 
+Ktyzyfont - jedna ze stolic partyjskich. Król partii mitrydates II.
+Z triumwiratu został tylko pompejusz i cezar. Pod Carhae umeira julia, żona pompejusza i córka gajusza juliusza cezara.
+Cezar był oskarżany o to że jego wojna z celtami nie była wojną sprawiedliwą bo jego podstawy prawne były znikome. Optymaci i Pompejusz chciał odebrać mu dowóctwo w galii. To doprowadza do wybuchu II wojny domowej. 
