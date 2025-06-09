@@ -1,0 +1,5 @@
+.foam\templates/
+.vscode/
+assets/
+_layouts/
+attachments/
