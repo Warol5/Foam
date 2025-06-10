@@ -12,7 +12,7 @@ W folderze są też mapki
 [Baza](https://github.com/Warol5/Foam/blob/master/IHUJ/Bliski%20Wsch%C3%B3d/G.pdf)
 [Notatki z zajęć](https://github.com/Warol5/Foam/blob/master/IHUJ/Bliski%20Wsch%C3%B3d/Bliski%20Wsch%C3%B3d.pdf)
 ## Średniowiecze Powszechne
-[Baza][https://github.com/Warol5/Foam/blob/master/IHUJ/Dobosz/Timeline.md]
+[Baza](https://github.com/Warol5/Foam/blob/master/IHUJ/Dobosz/Timeline.md)
 [Notatki z zajęć I część](https://github.com/Warol5/Foam/blob/master/IHUJ/Dobosz/Dobosz.pdf)
 [Notatki z zajęć II część](https://github.com/Warol5/Foam/blob/master/IHUJ/Dobosz/dobosz2.pdf)
 W folderze jest jeszcze więcej bazy 
@@ -28,6 +28,7 @@ W folderze jest jeszcze więcej bazy
 Mapki są w folderze ze wszystkiego
 ## Mrucus
 [Notatki z wykładu](https://github.com/Warol5/Foam/blob/master/IHUJ/Mrucus/Mrucz%C4%99.pdf)
+W folderze jest więcej notatek ale jako png
 ## NPH
 [Pierwszy semestr](https://github.com/Warol5/Foam/blob/master/IHUJ/NPH/NPH.md)
 [Drugi Semestr](https://github.com/Warol5/Foam/blob/master/IHUJ/NPH/NPH%202.pdf)
