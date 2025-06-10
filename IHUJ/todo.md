@@ -15,11 +15,11 @@
 - [ ] 23.06 - mrucus
 - [x] 25.06 - muchoski 
 - [ ] 26.06 - archeologia o 11, Szczepański nie wiadomo o której 
-- [ ] 27.06 - Piegdoń 
+- [ ] 27.06 - Piegdoń
 # Co zrobić?
 - [x] Tablica ascendentów
 - [x] Baza Rzym
-- [ ] Aleksy komnen na turlanie
+- [x] Aleksy komnen na turlanie
 - [x] Książka 
 - [x] Artykuł
 - [x] Źródło

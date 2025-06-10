@@ -605,3 +605,4 @@ Al-Athir - napisał historie prezz krainę bogatą
 
 
 # Echo pomruku 14 - echo krucjat 
+
