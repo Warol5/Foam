@@ -605,4 +605,40 @@ Al-Athir - napisał historie prezz krainę bogatą
 
 
 # Echo pomruku 14 - echo krucjat 
-
+Historia franciszka o próbie ognia w obozie al-kamila której nie mógł przegrać
+Historie o tym że święty franciszek skutecznie nauczał i nawrócił muzułmanów i nawet nawrócił Al-Kamila. Pojawiają się 
+Bracia mniejsi moga zainstalować się w Bazylice grobu bożego.
+Felix Faber twierdził że wydali ponad 30000 tysięcy dukatów na jakieś rzeczy w tym wieczernikj 
+1135 - przybycie franicziszkanów z prowincji akwitańskiej, ale nie ci z cypru pomimo tego że już tam isntiała struktura. Podlegali oni dwóm organom na raz. 
+Konwentoławoie vs. spirytuałowie
+Stało się to tak samo jak zainstalowanie łacinników za karola wielkiego. Robert Andegaweński ma interas wspierając papieża który wspiera franciszkanó. Sułtan jest żywo zainteresowany niedopuszczeniem do kolejnej krucjaty. 
+Funkcjonowali lepiej niż dominkanie, bo wykupowali sobie tereny wokół wieczernika
+Małgorzata z sycylii kupuje teren w pobliuż wieczernika i zakłada tam hospicjum dla kobeit. Początkowo działa niezależnie od franciszkanów, natomiast później będzie ono otoczone opieką przez franciszkanó.
+W 41 umiera ana ammad, stało się to samo co po śmierci haruna ar-raszyda. Braci z syjojnu uwięziono, wyposażenie zniszczeono Piotr aragoński interweniował, Braci zwolniono, pozowlono na ponowny wykup. Papież znowu musiał też pozowilić na handel
+Papież klemens Vi wydał dwie bulle, Gratias Agimus i NUper Carissime - opisują co bracia wtedy robią i pokazuje to ich podwójną zależność.
+Od tego momentu łacinników zaczyna przybywać. 
+1351 - w akkce w niedziele palmową łacińscy kupcy urządają sobie procesję i nie żadnych konsekwnecji
+1353 - Zofia de Arcangelis zakłada hospicjum, Jakiś finansowy skandal. 
+Al-Malik as_salih chce wprowadzić znowu uklad omara. 
+1358 - dwóch męczenników szkalowało proroków zanim ich zabili. Przypomina to dobrowolnych męczenników z XI w. na półwyspie iberyjskim. Chciano tak sprowokować jakiś cud.
+Administracja muzułmańska nie chciała ich uśmiercać żeby nie zaostrzać sytuacji.
+Po złupieni aleksandri wszystkich braci mniejsztych wsadzono do więzienia. 
+Jak są bracia to łatwiej jest się im utrzymać, dlatego promuje się pielgrzymowanie. 
+Organizuje się nowe, atrakcyjne nabożeństwa. Takie który odbywają się poza świątynią (idea drogi krzyżowej).
+Jest tez droga do matki bożej. 
+Prowadzą też przewodniki po ziemii świętej. - po wynalezieniu druku też je się drukuje. 
+Zaczyna sięzdaniem sylwestrowym. - znaczki oznaczające odpusty przyznane przez papieża sylwestra na prośbę konstatyna i jego matki heleny - wymyślone po to aby ściągniąc pielgrzymów odpustami. 
+1429 - odebrano franicszkaniom piwnice i parter wieczernika ze wzgledu na obeność zwłok króla dawida
+Wenecja zainterweniowała i oddano im parter bez piwnicy
+zaczęto tam też wnosić kaplice zesłania ducha świetęgo, którą ufundował ksiąze burgundzki filip
+Rozebrali ją, potem znowu zbudowali, potem znowu, potem znowu. 
+Byli też w:
+Grób marii
+Grota narodzenai w betlejem
+Grot mlezna - grota podziemna w beltejem pokryta jasną skalą - legenda o tym że matka go tam karmilła i mleko jej skapało. 
+Ramla - miejscowość niedaleko jaffy. 
+We wsparice franicszkanów zaangaował się też Jan Galeazzo visconti - wysyła sułtanowi prezenty,
+wenecja mocno się zaangażowała 
+Tolomeri - znali dwa języki mieli przechwycać pielgrzymów w wenecji. 
+U fabera jest lista tego co powinni robić ci pielgrzymi. 
+Bernard von Breaydenbach - zrobił drzeworty jerozolimy. 

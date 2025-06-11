@@ -122,3 +122,10 @@ Jednostka ma tożsamość narodową
 Jednostka musi zinternalizować ideologię narodową 
 Dyskurs - eksternalizacja tożsamości narodowej
 
+# Stasiak
+przedmiot - to co jest badane
+problem - po co to coś jest badane, 
+Temat - kontekst w dyskujsi historycznej  
+ 
+Metoda
+Źródło

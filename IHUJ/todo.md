@@ -11,7 +11,7 @@
 - [ ] 12.06 - Drugi Dobosz
 - [ ] 16.06 - rzym
 - [x] 17.06 - Drelich
-- [ ] 18.06 - 9 witecki, nph o 13 w Tischnerze 
+- [ ] 18.06 - 9 45 witecki, nph o 13 w Tischnerze 
 - [ ] 23.06 - mrucus
 - [x] 25.06 - muchoski 
 - [ ] 26.06 - archeologia o 11, Szczepański nie wiadomo o której 

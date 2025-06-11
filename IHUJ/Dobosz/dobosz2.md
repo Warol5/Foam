@@ -64,13 +64,17 @@ Inni
 
 # Daty
 1024 - śmierć henryka II
+1028 - wymiera dynastia macedońska
+1054 - schizma wschodnia
 1065 - Henryk IV obejmuje samodzielne rządy 
 1066 - bitwa pod Hastings, koronacja Wilhelma zdobywcy 
+1071 - bitwa pod mantzikertem
 1075 - zwycięstwo Henryka IV 
 1076 - synod w wormacji 
 1076 - synod w rzymie 
 1077 - pokuta henryka IV w canossie 
 1080 - wojna domowa w niemczech, ekskomunika henryka
+1081 - Koronacja aleksego I
 1095 - synod w clermont 
 1122 - konkordat w wormacji
 1123 - sobór laterański 
@@ -86,6 +90,7 @@ Inni
 1187 - Bitwa pod Hittin
 1189 - III krucjata 
 1199 - śmierć ryszarda Lwie serce 
+1204 - zdobycie konstantynopola podczas IV krucjaty
 1212 - krucjata dziecięca 
 1237 - początek najazdów mongołów na ruś 
 1248 - krucjata ludwika IX świętego
@@ -94,12 +99,20 @@ Inni
 1270 - ostatnia krucjata ludwika świętego  
 1282 - Nieszpory Sycylijskie  
 1291 - upadek akki
+1337 - początek wojny stuletniej   
 1346 - bitwa pod Crecy
-1356 - złota bulla karola IV 
+1356 - złota bulla karola IV, bitwa pod poitiers
+1360 - pokój w Bretigny  
+1381- powstanie chłopów angielskich  
 1396 - bitwa pod nikolopolis 
 1397 - unia kalmarska 
 1429 - wystąpeinie joanny d'arc 
 1453 - zdobycie konstantynopola przez turków
+1455 - początek wojny dwóch róz 
+
+bitwa pod azincourt, bouvines,  courtrai 
+sobory w pizie, bazylei, konstancji, lateranie IV 
+
 
 
 # Definicje 
