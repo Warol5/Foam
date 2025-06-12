@@ -120,3 +120,5 @@ Przykładem zdań syntetycznych a priori jest matematyka - nie potrzebujemy do n
 Kant stwierdził istnienie nie prawd, ale struktur wrodzonych - dwie najbardziej podstawowe to są formy naoczności - czas i przestrzeń.
 ,,Pewnie państwo tego nie zrozumiecie'' 
 ,,Państwo popełniają typowy błąd krytykując imperatyw kategoryczny'' 
+
+# Serving Kant

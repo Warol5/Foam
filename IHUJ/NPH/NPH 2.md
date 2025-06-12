@@ -237,4 +237,24 @@ kontrakcja - ze środka
 Przez znak specjalny
 nomina sacra 
 Promulgacja - chęć
-    
+scilicet - mianowici
+ecclesiae
+z literkami p łączą się z sylaby
+p z kreską nad - pre
+z dolną kreską - per
+per z ogonkiem - pro 
+et obsalute
+anime
+sygle - skróty do pierwszych liter
+
+typologia pieczęci 
+przedstawienia narracyjne, 
+pieczęć piesza ze sceną walki 
+
+Formułka dewocyjna. 
+Pismo kodeksowe i dyplomatyczne
+
+relief pisma światłcień - inne grubości kresek. 
+
+
+
