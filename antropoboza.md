@@ -34,7 +34,7 @@ Egzystencja jest przed esencją - rzeczy nie mają jednoznacznego sensu. Szczepa
 Antropologia filozoficzna
 Nie mam pojęcia słuchałem tego wykładu nawet dzisiaj ale niczego się nie nauczyłem od niego. Podał nazwiska tych trzech białasów i skończył.
 
-# Witecki 
+# Witecki Słowa klucze
 ### 1.	J. Diamond – Strzelby, zarazki, maszyny
 kolonializm, 
 determinizm geograficzny, 
