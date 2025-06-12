@@ -1,4 +1,4 @@
-Filozofia 
+# Filozofia 
 
 Etymologia filozofii
 filos, sofos, kochać mądrość chodzi o ucztę platona. Uważają siebie za ograniczonych i właśnie tym różnią się od mędrców. 
@@ -34,6 +34,137 @@ Egzystencja jest przed esencją - rzeczy nie mają jednoznacznego sensu. Szczepa
 Antropologia filozoficzna
 Nie mam pojęcia słuchałem tego wykładu nawet dzisiaj ale niczego się nie nauczyłem od niego. Podał nazwiska tych trzech białasów i skończył.
 
+# Witecki 
+### 1.	J. Diamond – Strzelby, zarazki, maszyny
+kolonializm, 
+determinizm geograficzny, 
+cywilizacja, 
+technologia, 
+ewolucja kulturowa
 
+### 2.	F. Znaniecki – Wstęp do socjologii
+społeczeństwo, 
+wartości, 
+współczynnik humanistyczny 
+socjologia humanistyczna,
+kultura
 
+### 3.	A. Guriewicz – Historia i antropologia historyczna
+mikrohistoria, 
+mentalność, 
+struktury społeczne, 
+antropologia, 
+średniowiecze
+
+### 4.	C. Geertz – Historia i antropologia
+interpretacja, 
+symbolika, 
+znaczenie, 
+kultura, 
+etnografia
+
+### 5.	N. Zemon Davies – Powrót Martina Guerre
+tożsamość, 
+społeczność,
+małżeństwo, 
+Nowożytność 
+Francja
+
+### 6.	R. Darnton – Wielka masakra kotów (i inne epizody francuskiej historii kulturowej)
+kultura ludowa, 
+symbolika, 
+Nowożytność 
+Francja
+codzienność
+
+### 7.	A. MacFarlane – The Family Life of Ralph Josselin
+rodzina, 
+Anglia, 
+Nowożytność 
+życie prywatne
+Śmierć
+
+### 8.	C. Ginzburg – Ser i robaki: wizja świata pewnego młynarza z XVI w.
+herezja, 
+mikrohistoria, 
+Nowożytność 
+kultura ludowa 
+Włochy
+
+### 9.	E. Le Roy Ladurie – Montaillou, wioska heretyków 1294-1324
+Francja
+codzienność, 
+mikrohistoria, 
+kataryzm, 
+Nowożytność 
+
+### 10.	E. Szpak – Mentalność ludności wiejskiej w PRL. Studium zmian
+PRL, 
+wieś, 
+zmiany społeczne, 
+mentalność, 
+transformacja
+
+### 11.	E. Domańska – Historia antropologiczna. Mikrohistoria
+historiografia, 
+metodologia, 
+mikrohistoria, 
+interdyscyplinarność, 
+postmodernizm
+
+### 12.	J. Huizinga – Homo Ludens. Zabawa jako źródło kultury
+zabawa, 
+kultura, 
+rytuał, 
+gra, 
+symbolika
+
+### 13.	P. Burke – Kultura ludowa we wczesnonowożytnej Europie
+Kultura ludowa 
+tradycja, 
+Nowożytność
+Europa, 
+różnice kulturowe
+
+### 14.	N. Schindler – Ludzie prości, ludzie niepokorni. Kultura ludowa w początkach dziejów nowożytnych
+Nowożytność 
+kultura ludowa, 
+codzienność, 
+Relacja między płciowe
+Europa 
+
+### 15.	H. Trevor-Hoper – Górska tradycja Szkocji
+nacjonalizm/tożsamość narodowa  
+tradycja, 
+Szkocja, 
+romantyzm 
+Kilt
+
+### 17.	J. Łotman – Rosja i znaki. Kultura szlachecka w wieku XVIII i na początku XIX
+Dandysi
+Rosja
+Szlachta
+Semiotyka
+Nowożytność
+
+### 18.	M. Łuczewski – Odwieczny naród. Polak i katolik w Żmiącej
+Tożsamość 
+Naród
+XIX w. 
+Chłopi 
+Polska 
+
+### 19.	B. Klich-Kluczewska – Rodzina, tabu i komunizm w Polsce: 1956-1989
+PRL
+Tabu
+Rodzina
+Macierzyństwo 
+Rodzina 
+
+### 20.	M. Stasiak – Między kalectwem a normalnością. Indywidualny problem niepełnosprawności w Polsce lat pięćdziesiątych i sześćdziesiątych na przykładzie niepełnosprawnych po polio
+Polio
+Niepełnosprawność
+PRL
+Rehabilitacja
+Historia mówiona 
 

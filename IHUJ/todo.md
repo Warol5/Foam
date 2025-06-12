@@ -8,7 +8,7 @@
 - [x] 27.05 - Drelich zerówka
 - [x] 06.06 - zerówka Rzym o godzinie 11 (ujebałem jak cwel)
 - [x] 10.06 - zerówka Bizancjum
-- [ ] 12.06 - Drugi Dobosz
+- [x] 12.06 - Drugi Dobosz
 - [ ] 17.06 - rzym o 11
 - [x] 17.06 - Drelich
 - [ ] 18.06 - 9 45 witecki, nph o 13 w Tischnerze 
