@@ -328,4 +328,128 @@ II wojna mitrydatejskia - toczyła się bardzo krótko 82-81. Jeden z dowóctów
 
 III wojna mitrydatejskia- mitrydates chcial zająć bitynię zapisaną rzymowi przez nikomedesa III - pokonał go lucjusz licyniusz lukullus i marek aureliusz kotta
 
+# I termin 
+Marek Terencjusz Warron - stronnik pompejusza, napisał De re rustica - podręcznik gospodarki rolnej
+Pierwszy Konsul Lucjusz Juniusz Brutus
+Ostatni król rzymski Tarkwiniusz Pyszny
+Mons Sacer - miejsce secesji plebejskiej - po niej utworzono urząd trybuna ludowego. 
+Cerera - bogini rolnicza 
+foedus cassianum - przymierze z latynami,  
+Bitwa nad rzeką Kremerą - 477, 
+II secesja plebejuszy - powstaje prawo XII tablic sporządzone przez decemwirów
+zdobycie wejów przez rzymian - 396 
+Bitwa nad allią - 390
+367 - leges liciniae sextiae - ograniczenie posiadania ziemii do 500 jugerów
+366 - Lucjusz Sykstus - pierwszy konsul plebejski 
+295 - bitwa pod sentium, decjusz mus, egnacjusz. 
+Asklepios - bóg sztuki lekarskiej 
+I wojna punicka - 264-241 
+260 - Bitwa morska pod Mylae - Gajusz Duiliusz vs hazdrubal
+256 - bitwa u przylądka eknomos - marek atyliusz vs hamilkar 
+Koniec wojny - Nowa prowincja - sycylia, zwolnienie jeńców i kontrybucje przez 10 lat. 
+241 - utworzenie dwóch ostatnich tribus 
+229 - bitwa pod z - pokonanie teuty, ucieczka demetriusza do Filipa V 
+224 - bitwa pod telamonem 
+222 - powstaje galia cisalpina 
+II wojna punicka - 218-201 
+217 - jezioro trazymeńskie
+216 - bitwa pod kannami 
+212 - zdobycie syrakuz
+202 - zama 
+Koniec wojny - kartagina traci posiadłości poza afryką i wydaje prawie calą flotę. 10 tysięcy talentów kary, nie wolno jej prowawdzić żadnej wojny bez zgody rzymu. Zdobycze terytorialne rzymu w sycylii i w hiszpani.
+I wojna macedońska 215-205, powodem sojusz Filipa V z hannibalem 
+204 - wprowadzenie kultu kybele w rzymie
+II wojna macedońska - 200-196 
+197 - kynoskefalaj
+Koniec wojny - Filip V wyrzeka się posiadłości poza macedonią, płaci odszkodowanie, zwraca wolność miastom greckim 
+Wojna z Antiochem III - 192-188
+Bitwa pod Magnezją - 190
+Pokój w Apamei - 188 - utrata seleukidzkich posiadłości, trybut, flota, słonie bojowe
+186 - zakazano bachanalia 
+III wojna macedońska - 171-167 
+Państwo perseusza przestaje istnieć - musiano wydać zakładników, w tym polibiusza, podzielono na 4 zależne od rzymu republiki 
+168 - bitwa pod pydną 
+III wojna punicka - 149-146 - zwycięstwo stronictwa katona starszego doprowadza do jej wybuchu, pretekstem stracie kartaginy z massynisą,
+146 - zniszczenie kartaginy - utworzona afryka proconsularis
+146 - zniszczenie koryntu 
+133 - trybunat tyberiusza grakcha
+123 - gajusz grakchus trybunem ludowym 
+Bitwa pod noreją - 113 - przegrywa konsul papiriusz karbon 
+porażka armi rzymskiej pod arausio - 105 
+Wojna z jugurtą - 111-105 - 
+106 - bitwa pod cyrtą 
+II powstanie sycylijskie - 104-101 
+90-88 - wojna ze sprzymierzeńcami
+I wojna z mitrydatesem VI - 88-85 
+Pokój w dardanos - koniec wojny 
+I wojna domowa - 83-82 
+III wojna z mitrydatesem - 74-64 - Pompejusz ostatecznie pokonuje pont w 66, podporządkowywuje sobie syrię w 63 i walczył z piractwem
+Powstanie spartakusa 73-70 - stłumił je krassus
+63 - spisek katyliny 
+60 - I triumwirat 
+Cezar w galii - 58-50 - stłumił powstanie Wercyngetoryksa, pokonując go pod alezją. 
+56 - zjazd triumwirów w luce 
+53 - krassus ginie pod carhae 
 
+27 - oktawian zostaje augustus 
+
+Tyberiusz podbija panonie - 12-10 pne  
+Judea i Mezja prowincjami rzymskimi 6 ne 
+Wojna warusa - pierwszym prefektem konopiusz - 6
+6-9 powstanie w dacji i pannoni 
+14 - August umiera, bunt legionów w Panonii i Germanii przeciwko Tyberiuszowi, próba ogłoszenia cesarzem Germanika.
+14-17 - wyprawa germanika do germanii
+17-24 - powstanie takfarinassa w syrii 
+19 - otrucie germanika przez pizona 
+31 - upadek Sejana 
+37-41 kaligula - zabity przez kasjusza 
+43 - wyprawa do brytanii Aulusa Placjusza, utworzenie nowej prowincji 
+46 - tracja prowincją rzymską 
+50 - powstaje Colonia Agrippinensis. Została założona przez cesarzową Agrypinę, żonę Klaudiusza, która urodziła się w osadzie legionowej (castra Romana) nad Renem
+54 - Kladiusz otruty przez agrypinę  
+Dwaj stronnicy kladiusza - Pallas, Narcyz 
+54-68 - panowanie nerona 
+61 - powstanie boudiki w brytanii, pokonał ją gajusz paulinus
+64 - pożar rzymu 
+66-73 - Annasz wywołał powstanie - stłumił je na rozkaz Nerona Tytus Flawiusz Wespazjan - powstanie było wymierzone w panowanie rzymskie - Józef Flawiusz napisał "Wojnę Żydowską" - wydarzenie upamiętnia Łuk Tytusa w Rzymie
+68 - rewolta Windeksa. - Windeks - przywódca powstania w Galii przeciwko Neronowi w 68 n.e., uruchomił lawinę wydarzeń, które doprowadziły do upadku i śmierci Nerona
+68-69 - panowanie Galby. - Prefekt pretorianów Tygellinus wraz z Sabinusem zdradzili Nerona, skłoniwszy oddziały do poparcia Galby.
+69 - Othon, Witeliusz. -Marek Salwiusz Otho - rozbity pod Kremoną przez Witeliusza, który mianował się cesarzem w Rzymie, lecz także został rozbity pod Kremoną (Bedriacum) przez Wespazjana.
+70 - syn Wespazjana, Tytus burzy Jerozolimę. Na pamiątkę wojny żydowskiej wzniesiono łuk triumfalny w Rzymie.
+77-84 Agrykola w Brytanii. Umocnienie pozycji imperium. Wojny z Kaledonami.
+79 - wybuch wezuwiusza 
+80 - dedykowanie koloseum 
+Domicjan -  Przyjął tytuł dominus ac deus - pan i bóg zginął z rąk zamachowców (wśród nich jego eks Domicja) skazany na niepamięć przez senat.
+83 zakończenie podboju Agri Decumates. Umocnienie pozycji wzdłuż Renu.
+85-89 - wojna z dakami 
+89 - Pokój z Decebalem. Niekorzystny dla Rzymu. Domicjan zmuszony był zawrzeć pokój z powodu buntu Lucjusza Antoniusza Saturnina w Germanii Górnej - powstaje państwo Daków (Rumunia).
+96-98 - panowanie Nerwy. Usynowił i dopuścił do współrządów Trajana w 96 r.
+114 - trajan dostaje tytuł ,,optimus''1
+101-102 pierwsza wojna dacka. - zajęcie stolicy Daków Sarmizegetuzy. Cesarz kazał wybudować Apollodorosowi z Damaszku most przez Dunaj
+105-106 - II wojna dacka. atak Decebala na Mezję, cesarz ponownie zdobył stolicę Daków. Ogłosił powstanie prowincji Dacji, a Decebal popełnił samobójstwo.
+106 - arabia i dacja prowincjami rzymskimi 
+114-117 - Wojna partyjska. Pragnął stać się nowym Aleksandrem, zmarł przygotowując wyprawę do państwa Partów. Odniósł wiele sukcesów na Wschodzie, ale powstanie Żydów wybuchło na tyłach w Cyrenajce, Egipcie i na Cyprze, zbuntowała się również Mezopotamia, choroba uniemożliwiły kontynuowanie walki., Zmarł w drodze powrotnej do Rzymu.
+panowanie Hadriana. - kuzyn Trajana, zdał sobie sprawę, że podboje na Wschodzie przekraczają możliwości finansowe i militarne państwa. Pierwszy na wzór grecki nosił brodę. Właściwy twórca monarchii rzymskiej.
+Julianus Salwiusz - prawnik Hadriana 
+Krwawo stłumił powstanie w Palestynie w latach 132 - 135 - Szymon Bar Kochba (syn Gwiazdy) w 130 zakazał obrzezania, wymazano nawet nazwę Judea na Syria Palestyna miejscu w 135 powstała kolonia rzymska. Na krótko przed śmiercią adoptuje Antoninusa Piusa.
+budowa Wału Antonina. Starał się utrzymywać dobre stosunki z senatem, który nadał mu przydomek Pius ("Pobożny"), ze względu na szacunek, jakim otaczał pamięć swego przybranego ojca.
+Marek aureliusz 
+175-176 - Stłumienie buntu Awidiusza Kasjusza w Syrii i Egipcie.
+161-169 - współpanowanie Lucjusza Werusa. 
+161 - 165 - wojna w Armenii
+167-180 - walki z Kwadami i Markomanami dzięki Tyberiuszowi Klaudiuszowi Pompejanusowi i Publiuszowi Helwidiuszowi Pertinaksowi najeźdźcy zostali pokonani.
+175 - początek podboju Markomanii i Sarmacji.
+177 - prześladowanie chrześcijan w Lugdunum.
+180 -192 Panowanie Kommodusa. Opierał się wtedy na niewielkiej grupie faworytów (Perennis, Kleander) i sile pretorianów.
+185 - opuszczenie wału antonina 
+192-193 panowanie Helwiusza Pertinaksa: W prowincjach cesarzami zostali ogłoszeni: - Septymiusz Sewer - Pesceniusz Niger
+panowanie Septymiusza Sewera. - zamordował Julianusa - dogadał się z Albinusem - zyskał poparcie senatu
+193-195 wojna z Pesceniuszem Nigrem. W 195 pokonuje po ciężkich walkach na Wschodzie Pescenniusza Nigra w bitwie pod Issos w 194, surowo rozprawiając się z miastami, które poparły Nigra; Antiochia utraciła prawa miejskie
+197 - Sewer pokonuje obwołanego cesarzem przez wojska brytońskie Klodiusza Albinusa pod Lugdunum.
+197-198 II wojna partyjska. - Sewer pokonał Partów, a z terenów zdobytych utworzył prowincję Mezopotamię. Zbudował w Rzymie wiele okazałych budowli, np. Septizonium i łuk triumfalny (w 203 dla uczczenia zwycięstwa nad Partami).
+208-211 - działania w Brytanii: Sewerus oparł zaciąg o wojska prowincjonalne, zaciąg w danej miejscowości, gdzie stacjonował legion.
+211-217 panowanie Karakalli. Karakalla morduje brata Getę w 212 i prefekta pretorianów, który nie chciał uznać legalności zabójstwa, prawnik Emiliusz Papianus (zamordowany także). W 217 r. podczas wojny z Partami, żołnierze uknuli spisek i zamordowali cesarza i obwołali nim Marka Opeliusza Makryna.
+250 - nakaz Decjusza złożenia ofiar bogom rzymskim, edykt propagandowy, jednoczący imperium.
+270-275 panowanie Aurealiana ogłosił się dominus ac deus oraz wprowadził kult Sol Invictus. Wprowadził w Rzymie stałe rozdawnictwo chleba, oliwy i soli oraz usprawnił dostawy żywności.
+273-274 likwidacja niezależności Palmyry, odzyskanie Galli. Zjednoczył cesarstwo, zwyciężając 273 królową Palmyry, Zenobię i odbierając w 274 Galię uzurpatorowi Tetrykusowi.
+274-275 - utrata dacji 
