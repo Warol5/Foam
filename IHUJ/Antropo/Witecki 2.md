@@ -129,3 +129,28 @@ Temat - kontekst w dyskujsi historycznej
  
 Metoda
 Źródło
+
+Sprawdzian końcowy - wstęp do antropologii historycznej - grupa 1 (9:45) 
+Grupa A 
+
+Naród - Ruch ideologów narodowych. Tym ideologiem może być każdy.
+Obyczaj - To co się robi. W przykładzie z sędziami jest to to, że i w jaki sposób sądzą (nie peruki i inne symbole). Obyczaj jest zmienny (o wiele bardziej niż tradycja). 
+
+Diamond
+P - Dlaczego niektóre cywylizacje (europa) były w stanie zdominować inne?
+O - Sukces cywilizacji jest zależny od warunków geograficznych. Niektóre regiony nie były w stanie zbudować zaawansowawnych cywilizacji, ponieważ nie były tam dostępne możliwe do udomowienia zwierzęta i rośliny. 
+
+Ginzburg
+Temat - Indywidualny aspekt religii wśród chłopów. 
+Problem - Jak Mennochio był w stanie stwrorzyć taki światopogląd? 
+Przedmiot - Herezja Mennochia
+Źródła - Akta z jego sprawy przed trybunałem inkwizycji
+Narracja - Opisowa, z cytatami
+Metoda - Analiza jednego źródła (akt ze sprawy)
+
+MacFarlane
+Rodzina
+Anglia
+Nowożytność
+Historia mentalności
+Śmierć

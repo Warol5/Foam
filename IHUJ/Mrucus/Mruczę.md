@@ -3,12 +3,13 @@
     ,,Nie wskazuje żadnego z podręczników'' (najlepszy M. Balard, Łaciński Bliski Wschód XI-XV)
     Podstawą egzaminu jest wykład
 
-# Wykład 1: Wstęp
+# Wykład 1: Rzymska ziemia święta
 Ziemia święta definiowana jak w rzd 15, 18
 
 Jerozolime ustawiano na środku świata, na styku trzech wielkich wód.
 
 Łacinnicy - ludzie żyjący na zachodzie którzy mają wspólną wspólny korpus fajnych historii (poza niesieniem uniwersalnych prawda zbawienia historie te były też atrakcyjne). Korpus ten przyciągał ludzi do tych miejsc. Stąd w wieku IV i V rozpoczeła się ,,turystyka'' do ziemi świętej. Pierwotnie drogę tą można było całkiem szybko przebyć, z czasem jednak oddala się. 
+
 Onomasticon, dzieło Euzebiusza, biskupa Cezarei - dzieło napisane po Grecku, w którym autor identyfikuje miejsca opisane w Biblii (rok wydania 324).
 
 Jerozolima została zniszczona, powstała ?Aelia Capitolina? Zburzona tam świątynie afrodyty a zbudowano Bazylikę Grobu Bożego.
@@ -115,7 +116,7 @@ Jest to książka oparta o relację Arculfa, który opisał to Adamnanowi, opisa
 Zapewne w 685 kalif Al-Malik zaczyna budować kopułę na skale - Kubbat as-sachra - budowla ma chronić świętą skałe.
 Mówi się, że chciał przyćmić to co zbudowali chrześcijanie
 Muzułmanie nie kontroluja mekki, więc chcą zbudować sobie drugie ważne centrum sakralne, pada na jerozolime
-Al-Walid I - buduje meczet najdalszy, tzw. Al-Aqsa. Jest on upamiętnieniem nocnej podróży Proroka, która jest opisana w Koranie.
+Al-Walid I - buduje meczet najdalszy, tzw. Al-Aqsa. Jest on upamiętnieniem nocnej podróży Proroka, która j`est opisana w Koranie.
 Nie zachowały się żadne muzułmańskie opisy wzgórza świątynnego sprzed X w.
 Okazuje się w pewnym momencie, że Ziemia Święta jest ważna dla chrześcijan i muzułmanów jednocześnie.
 Modlitwa na Wzgórzu Świątynnym jest równa 50 000 innych modlitw - taka tradycja kształtuje się w Jerozolimie.
@@ -265,7 +266,7 @@ W mieście zostało dużo zwłok - wiemy że je palono, na pewno jednak nie spal
 Sierpień 1099 - w askalonie lądują posiłki pod wodza al-afdala - miał dwa razy tyle sił co krzyżowcy. Jednak krzyżowcy zdołali go pokonać ale nie dali rady zająć miasta (uderzyli o świcie, było to zaskoczenie). 
 bitwa pod aksalonem - 12 sierpnia - militarny koniec I krucjaty
 
-# Odmruk 6 cześć 2: Krzyżowcy po pierwszej krucjacie
+# Odmruk 6 cześć 2: Między I a II krucjatą
 Po bitwie pod askalonem spora cześć krzyżowców uznała że robota skończona i pojechali sobie do domu 
 W rękach muzułmanów dalej były najważniejsze porty.
 Krzyżowcy dominowali na w polu, bo muzułmanie nie mieli odpowiedzi na ciężkozbrojnego jeźdźca z kopią.
@@ -386,7 +387,7 @@ Zgodził się na to, aby wypuścić spore ilości grupy bez płacenia okupu. Nie
 Saladyn przejmuje kontrolę nad kolejnymi miastami, w zamian za wypuszczanie jeńców z niewoli.
 1188 zwalnia gwidona pod warunkiem że ten opuści jerozloime. Gwindon nie dotrzymuje i udaje się do tyru. Konrad nie wpuszcza go do tyru - spór między łacinnikami. Gwidon dociera pod akkę i razem z grupą wojskowych zakłąda obóz i oblega akkę. Daje to początek III krucjacie. 
 
-# Podmruk 9: Trzecia Krucjata 
+# Podmruk 9: III i IV krucjata  
 Urban III umarł w 1187 
 Jego następca Grzegorz VIII wydał bullę *Audita Tremendi*
 Przywódcy krucjaty Fryderyk Barbarossa, Henryk II i Filip II - Henryk sobie zmarł i wyruszył Ryszard Lwie Serce
@@ -542,7 +543,7 @@ Stosowano wobec niego jakieś represje, ale nie było skuteczne. Dał zgodę, ab
 1304 wenecjanie prowadzili podobne negocjacje - będą mogli handlować w akkce i przyprowadzać tam pielgrzymów. 
 Przez ten czas aktywości łacinników ziemia święta zbliża się do europy. 
 
-# Post-Mruk 12: Historia kulturowa (i kulturalna :D) 
+# Post-Mruk 12: Kultura łacinników
 Lundość która została po I krucjacie przyjmuje przydomnki od swoich nowych posiadłości, co znaczy że nie mieli jakiś świetnych posiadłości w europie.
 Pactum varmundi dawał wenecjanom szeroką autonomię
 Zakony rycerskie które rodzą się w ziemi świętej - Pierwszi templariusze 
@@ -591,7 +592,7 @@ Jakub de Vitry wpada na pomysł że będzie wykupywał niewolników i będzie ic
 Łacinniycy nie rozmywają się jednak religijnie.
 Łacinnicy nie zaczynają nosić bród.
 
-# Mruk 13 - Wymiany handlowe 
+# Mruk 13 - Handel 
 Sukna z krajów zzalpejskich były więcej warte niż korzenie które trafiały ze wschodu na zachód - towar europejsik trafiał na wschód i był znacznej wartości. 
 Ibn dżubarj - napisał Rihle - opisywał mnóstwo karawan 
 Fatymidzi korzystali z ceł jako narzędzia kotroli tego, jakie towary przybywają na wschód.
@@ -604,7 +605,7 @@ Urban II mówił że kraj był bardzo bogaty i w ogóle.
 Al-Athir - napisał historie prezz krainę bogatą
 
 
-# Echo pomruku 14 - echo krucjat 
+# Echo pomruku 14 - Franciszkanie 
 Historia franciszka o próbie ognia w obozie al-kamila której nie mógł przegrać
 Historie o tym że święty franciszek skutecznie nauczał i nawrócił muzułmanów i nawet nawrócił Al-Kamila. Pojawiają się 
 Bracia mniejsi moga zainstalować się w Bazylice grobu bożego.
@@ -641,4 +642,3 @@ We wsparice franicszkanów zaangaował się też Jan Galeazzo visconti - wysyła
 wenecja mocno się zaangażowała 
 Tolomeri - znali dwa języki mieli przechwycać pielgrzymów w wenecji. 
 U fabera jest lista tego co powinni robić ci pielgrzymi. 
-Bernard von Breaydenbach - zrobił drzeworty jerozolimy. 

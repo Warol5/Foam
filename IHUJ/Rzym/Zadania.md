@@ -7,31 +7,42 @@ Sol Invictus - Aurelius
 Mars - miesiąc martius
 
 # Bitwy 
-280 pne - Herakleja - Publiusz Waleriusz Lewinus, Pyrrus 
-279 pne - Auskuluim - Publiusz Decjusz Mus, Pyrrus 
-275 pne - beneventum - Kuriusz Dentalus, Pyrrus 
-224 pne - Telemon 
-217 pne - Jezioro Trazymeńskie - Flaminiusz, Hannibal 
-202 pne - Zama - Scypion Afrykański, Hannibal
-190 pne - Magnezja - Scypion Azjatycki, Antioch III wielki 
-168 pne - Pydna - Perseusz, Lucjusz Emiliusz Paulus Macedoński
-102 pne - Aquae Sextiae - Gajusz Mariusz, Teutobod 
-101 pne - Vercallae - Gajusz Mariusz, Boiorix  
-86 pne - orchomenos - Sulla, Archelaos -  pokój w dardanos 85 potem rzymianie złupili ateny 
-86 pne - Cheronea - Sulla, Archelaos
-82 pne - u bramy kolińskiej - sulla, mariusz młodszy 
-53 pne - Carrhae - Krassus, Eran Surenas (partowie)
-48 pne - Farsales - Marek Antoniusz (cezar) , scypio i domicjusz ahenobarbus (pompejusz)  
-42 pne - Filippi - Marek Antoniusz i Oktawian, Brutus i Kasjusz 
-31 pne - Akcjum - marek antoniusz, oktawian august 
+477 - Kremerą
+390 - Alią - Kwintus Sulpicjusz vs. Brennus (celtowie)
+295 - Decjusz mus vs. Egnacjusz (samnici) - koniec III wojny 
+280  - Herakleja - Publiusz Waleriusz Lewinus, Pyrrus 
+279  - Auskuluim - Publiusz Decjusz Mus, Pyrrus 
+275  - beneventum - Kuriusz Dentalus, Pyrrus 
+260 - Mylae - Gajusz Duiliusz  s. Hazdrubal 
+256 - Eknomos - Marek Atyliusz vs. Hamilkar
+217 - Jezioro Trazymeńskie - Flaminiusz vs. Hannibal 
+216 - kannami - Warron vs. Hannibal
+202 - Zama - Scypion Afrykański, Hannibal
+197 - kynoskefalaj - Flaminus vs. Filip V 
+190 - Magnezja - Scypion Azjatycki, Antioch III wielki 
+168 - Pydna - Perseusz, Lucjusz Emiliusz Paulus Macedoński
+113 - Noreją - Papirusz Karbon vs. Teutobod (cymbrowie)
+106 - Cyrta - Mariusz, Sulla vs. Jugurta 
+102 - Aquae Sextiae - Gajusz Mariusz, Teutobod 
+101 - Vercallae - Gajusz Mariusz, Boiorix  
+86 - orchomenos - Sulla, Archelaos -  pokój w dardanos 85 potem rzymianie złupili ateny 
+86 - Cheronea - Sulla, Archelaos
+82 - u bramy kolińskiej - sulla, mariusz młodszy 
+53 - Carrhae - Krassus, Eran Surenas (partowie)
+48 - Farsales - Marek Antoniusz (cezar) , scypio i domicjusz ahenobarbus (pompejusz)  
+42 - Filippi - Marek Antoniusz i Oktawian, Brutus i Kasjusz 
+31 - Akcjum - marek antoniusz, oktawian august 
 9 - Bitwa w lesie Teutoburskim - Arminiusz, Publiusz Kwinktyliusz Warus
 
 # Podaj imie (to jest chyba obiektywnie najcięższe - trzeba znać wszystkie osiągnięcia każdego cesarza rzymskiego, jak i wszystkich wodzów rzymskich)
+Asklepios - bóg sztuki lekarskiej 
 Marek Antoniusz - zamordował katylinę, pachołek cezara, potem był w egipcie, wróg oktawiana 
 Brutus - spiskowiec 
+Cerera - bogini rolnicza 
 Cezarion - kuzyn cezara czy cos, kazano go zamordować szybko 
 Lucjusz Korneliusz Cynna - wrasz z mariuszem dokonał zamachu, zgninął z rąk swoich żołnierzy. po jego śmierci mariusz stał się władca italii  
 Decjusz mus - dowodził przeciwko samittom pod sentinum
+foedus cassianum - przymierze z latynami,  
 Gajusz Flaminiusz - zbudował via flamina, przeprowadził reformę agralną, zginął w bitwie z  nnibalem, zginął w bitwie nad jeziorem trazymeńskim 
 Gajusz Iutacjusz Katulus - wygrał u wysp egackich z hamilkarem  
 Gajusz Kaligula - wyprawił się na germanów, stłumił bunt legionów, został otruty, mianował konia senatorem 
@@ -53,7 +64,7 @@ lucjusz licyniusz lukullus - w III wojnie pokonał mitrydatesa
 Marek Aureliusz - stoik, bił się z kwadami i markomanami, 
 marek aureliusz kotta - w III wojnie pokonał mitrydatesa 
 Marek Liwiusz Druzus - optymata, reformator jego śmierć była powodem do wojny ze sprzymierzeńcami 
-Marek terencjusz warro - przegrał w lesie tamtdas
+Marek terencjusz warro - przegrał w lesie tamtdas stronnik pompejusza, napisał De re rustica - podręcznik gospodarki rolnej
 marek wipsaniusz Agryppa - wybitny wódz oktawiana 
 Gajusz Mariusz - pojmał jugurtę, wygrał pod aquea sextiae i vercellae, był konsulem dużo razy 
 Massynisa - król Numidów, spowodował III wojnę punicką 
@@ -86,18 +97,13 @@ Lex Valeria 300 - prawo apelacji do wyroków
 Lex Weleria - od imienia Waleriusza – dyktatura dla Sulli na czas nieokreślony
 
 # Daty? I guess zakończenia wojen będą najważniejsze, natomiast czasami zdarzają się też inne więc trzeba wybrać te po prostu ,,najważniejsze'' ale chyba sie nie da tak łatwo
-44 pne - zamach na cezara
-449 (451) - Prawo XII tablic 
-49 pne - przekroczenie rubikonu
-73 pne - wybuch powstania spartakusa  
-79 pne - sulla składa urząd dyktatora 
-Reforma agralna - 
-Reforma agralna grakcha - 133 pne
-Spisek gajusza Kalpurniusza Pizona - 65   
-Spisek jakiś tam - 87
-Spisek Lucjusza Sergiusza katyliny - 63 pne 
-Założenie rzymu - 753 pne  
+
+Zdobycie wejów - 396 pne 
 Zniszczenie kartaginy - 146 pne 
+Spisek Lucjusza Sergiusza katyliny - 63 pne 
+Drugi triumwirat - 43 pne 
+Spisek gajusza Kalpurniusza Pizona - 65   
+Edykt Decjusza - 250
 
 # Wszystkie Reformy do zadań opisowych
 Reformy na wschodzie pompejusza
@@ -170,7 +176,7 @@ Appian z Aleksandrii historia Rzymu
 Apulejusz metamorfozy albo złoty osioł
 Arrian z nikomedii wyprawa a macedońskiego
 Cezar - pamiętniki o wojnie domowej, pamiętniki  o wojnie galijskiej 
-Cyceron - Filipinki
+Cyceron - Filipink, De re publica 
 Dion z Prusy złotousty
 Eliusz Arystydes (189zm) pochwała Rzymu, mowa panatenajska 
 Epiktet - rozwijał etykę
@@ -198,6 +204,7 @@ Marek anneusz lukan (39-65) 10 ksiąg o wojnie domowejpharsalia
 Marek Terencjusz Warro - Potwór trójgłowy
 Pauzaniasz przewonik po Helladdzie 
 Petroniusz - satiricon
+Plaut - komedie 
 Pliniusz młodszy panegiryk
 Pliniusz Starszy – 23-79 – „Historia naturalna” – encyklopedyczne dzieło dedykowane Tytusowi
 Plutarch - żywoty sławnych mężów 
@@ -207,8 +214,8 @@ publiusz Terencjusz afer,
 Seneka – 3-65 – najwybitniejszy filozof rzymski – wpłynął na etykę chrześcijańską. Dialogi,listy moralne do lucyliusza, 
 Stacjusz – silvae, Achilleis, 
 Swetoniusz 70-160 pisarz rzymski, twórca biografii cesarzy. Przyjaciel Pliniusza Młodszego. Sekretarz kancelarii cesarza Hadriana.
-Tacyt - roczniki
 Tacyt 55 - ok. 120 najwybitniejszy historyk starożytnego Rzymu..– Biografie cesarzy – „Żywoty cezarów”., germania, dzieje, roczniki, dialog o mówcach 
+Terencjusz  - komedie 
 Tytus Lukrecjusz Karus epikurejczyk o naturze wszechrzeczy
 Tytus makcjusz plutus, 
 Wellejusz paterculus - Historia rzymska 
@@ -294,6 +301,10 @@ Populares - popularzy
 Princeps senatus – jeden z konsularów, zabierał zawsze pierwszy głos w czasie debaty
 proletarii - najbiedniejsi 
 prowincja - zakres kompetencji urzędnika 
+Sanhedryn, w starożytnej Judei żydowska instytucja religijna i sądownicza istniejąca od III w. p.n.e. Sanhedryn składał się z 71 członków (głównie arystokracja - saduceusze). Od czasów Machabeuszy w skład sanhedrynu wchodzili też faryzeusze. Sanhedryn pełnił początkowo funkcję doradczą przy arcykapłanie lub królu, po upadku królestwa był jedyną reprezentacją Żydów wobec władz rzymskich. Po upadku Jerozolimy (70 n.e.) nazwę sanhedrynu przejęły kolegia uczonych rabinów (do IV w.).
+Faryzeusze, opierający się na warstwach średnich i niższych, propagowali nauczanie w synagogach, uważali, że prawo musi być stale uzupełniane. Wierzyli w życie pozagrobowe, spodziewali się nadejścia Mesjasza i ściśle przestrzegali czystości rytualnej.
+Esseńczycy, odłam gorliwy religijnie i odizolowany od centrów kultu. Ich organizacje, życie zakonne i mistyczną wiarę możemy poznać dzięki rękopisom w Qumran nad M. Martwym.
+Zeloci, najpóźniej ukształtowani, powstali w okresie zależności od Rzymu, ich dążeniem było odrzucenie obcego panowania, odegrali kierowniczą rolę w powstaniu stosując zasady terroru wobec Rzymian i Żydów nie wykazujących gorliwości w walce
 Socii – miasta uzależnione sojuszem z Rzymem, nie płacące mu daniny, ale zobowiązane do świadczeń wojskowych. Nie miały prawa zawierania innych sojuszy.
 Sportella – koszyk, lub równowartość 1 koszyka.
 Sportula – rozdawnictwo pieniędzy. 	
@@ -320,7 +331,7 @@ II wojna macedońska
     Tytus Kwincjusz Flaminus ogłosił wolność helenów na istmie korynckim 
     Filip zrzekł się zdobyczy na rzecz Pergamonu i Rodos, kontrybucja, flota tylko 6 okrętów, zrzekł się roszczeń do Grecji, kajdany Grecji: Demetrias, Chalkis, akrokorynt- odebranie tych miast Macedonii . 
 
-Wojna z AntiochemIII (192- 188) :
+Wojna z Antiochem III (192- 188) :
     192- 188 Seleukida, wojna syryjska , bitwa , pod Termopilami przegrał antioch w 191,pod Myonnessos wygrał Rzym, 189 pod Magnezją wygrał Lucjusz Korneliusz Scypion i jego brat publiusz , pokój w Apamei 188, samobójstwo Hannibala w 183, Scypion afrykańki cenzor 200, dziel i rządź, jego wróg katon
 
 I wojna mitrydatejskia -prowadził ją sulla. zakończona pokojem w dardaros którego nigdy nie zatwierdził senat.
@@ -329,55 +340,37 @@ II wojna mitrydatejskia - toczyła się bardzo krótko 82-81. Jeden z dowóctów
 III wojna mitrydatejskia- mitrydates chcial zająć bitynię zapisaną rzymowi przez nikomedesa III - pokonał go lucjusz licyniusz lukullus i marek aureliusz kotta
 
 # I termin 
-Marek Terencjusz Warron - stronnik pompejusza, napisał De re rustica - podręcznik gospodarki rolnej
 Pierwszy Konsul Lucjusz Juniusz Brutus
 Ostatni król rzymski Tarkwiniusz Pyszny
 Mons Sacer - miejsce secesji plebejskiej - po niej utworzono urząd trybuna ludowego. 
-Cerera - bogini rolnicza 
-foedus cassianum - przymierze z latynami,  
-Bitwa nad rzeką Kremerą - 477, 
 II secesja plebejuszy - powstaje prawo XII tablic sporządzone przez decemwirów
 zdobycie wejów przez rzymian - 396 
-Bitwa nad allią - 390
 367 - leges liciniae sextiae - ograniczenie posiadania ziemii do 500 jugerów
 366 - Lucjusz Sykstus - pierwszy konsul plebejski 
-295 - bitwa pod sentium, decjusz mus, egnacjusz. 
-Asklepios - bóg sztuki lekarskiej 
 I wojna punicka - 264-241 
-260 - Bitwa morska pod Mylae - Gajusz Duiliusz vs hazdrubal
-256 - bitwa u przylądka eknomos - marek atyliusz vs hamilkar 
 Koniec wojny - Nowa prowincja - sycylia, zwolnienie jeńców i kontrybucje przez 10 lat. 
 241 - utworzenie dwóch ostatnich tribus 
 229 - bitwa pod z - pokonanie teuty, ucieczka demetriusza do Filipa V 
-224 - bitwa pod telamonem 
 222 - powstaje galia cisalpina 
 II wojna punicka - 218-201 
-217 - jezioro trazymeńskie
-216 - bitwa pod kannami 
 212 - zdobycie syrakuz
-202 - zama 
 Koniec wojny - kartagina traci posiadłości poza afryką i wydaje prawie calą flotę. 10 tysięcy talentów kary, nie wolno jej prowawdzić żadnej wojny bez zgody rzymu. Zdobycze terytorialne rzymu w sycylii i w hiszpani.
 I wojna macedońska 215-205, powodem sojusz Filipa V z hannibalem 
 204 - wprowadzenie kultu kybele w rzymie
 II wojna macedońska - 200-196 
-197 - kynoskefalaj
 Koniec wojny - Filip V wyrzeka się posiadłości poza macedonią, płaci odszkodowanie, zwraca wolność miastom greckim 
 Wojna z Antiochem III - 192-188
-Bitwa pod Magnezją - 190
 Pokój w Apamei - 188 - utrata seleukidzkich posiadłości, trybut, flota, słonie bojowe
 186 - zakazano bachanalia 
 III wojna macedońska - 171-167 
 Państwo perseusza przestaje istnieć - musiano wydać zakładników, w tym polibiusza, podzielono na 4 zależne od rzymu republiki 
-168 - bitwa pod pydną 
 III wojna punicka - 149-146 - zwycięstwo stronictwa katona starszego doprowadza do jej wybuchu, pretekstem stracie kartaginy z massynisą,
 146 - zniszczenie kartaginy - utworzona afryka proconsularis
 146 - zniszczenie koryntu 
 133 - trybunat tyberiusza grakcha
 123 - gajusz grakchus trybunem ludowym 
-Bitwa pod noreją - 113 - przegrywa konsul papiriusz karbon 
 porażka armi rzymskiej pod arausio - 105 
 Wojna z jugurtą - 111-105 - 
-106 - bitwa pod cyrtą 
 II powstanie sycylijskie - 104-101 
 90-88 - wojna ze sprzymierzeńcami
 I wojna z mitrydatesem VI - 88-85 
@@ -425,7 +418,7 @@ Domicjan -  Przyjął tytuł dominus ac deus - pan i bóg zginął z rąk zamach
 89 - Pokój z Decebalem. Niekorzystny dla Rzymu. Domicjan zmuszony był zawrzeć pokój z powodu buntu Lucjusza Antoniusza Saturnina w Germanii Górnej - powstaje państwo Daków (Rumunia).
 96-98 - panowanie Nerwy. Usynowił i dopuścił do współrządów Trajana w 96 r.
 114 - trajan dostaje tytuł ,,optimus''1
-101-102 pierwsza wojna dacka. - zajęcie stolicy Daków Sarmizegetuzy. Cesarz kazał wybudować Apollodorosowi z Damaszku most przez Dunaj
+101-102 I wojna dacka. - zajęcie stolicy Daków Sarmizegetuzy. Cesarz kazał wybudować Apollodorosowi z Damaszku most przez Dunaj
 105-106 - II wojna dacka. atak Decebala na Mezję, cesarz ponownie zdobył stolicę Daków. Ogłosił powstanie prowincji Dacji, a Decebal popełnił samobójstwo.
 106 - arabia i dacja prowincjami rzymskimi 
 114-117 - Wojna partyjska. Pragnął stać się nowym Aleksandrem, zmarł przygotowując wyprawę do państwa Partów. Odniósł wiele sukcesów na Wschodzie, ale powstanie Żydów wybuchło na tyłach w Cyrenajce, Egipcie i na Cyprze, zbuntowała się również Mezopotamia, choroba uniemożliwiły kontynuowanie walki., Zmarł w drodze powrotnej do Rzymu.

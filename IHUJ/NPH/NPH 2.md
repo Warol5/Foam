@@ -36,7 +36,7 @@ Odznaka - przedmioty przytwierdzone do szaty lub zawieszone na szyi, informując
 Strój i mundur
 interesuje tylko taki, który jest jednoznacznie powiązany z jakimś urzędem/godnością
     strój biskupa
-    stój stanowy - mundury ziemskie
+    strój stanowy - mundury ziemskie
 
 Budynki i miejsca: zamek - pałac - rezydencja
 Katedra - tam rezyduje biskup. 
@@ -44,7 +44,7 @@ Ratusz
 pola pod warszawską wolą gdzie wybierano króla
 
 Urządzenia i sprzęty: kara śmierci - miejsca straceń, sprzęty, kary na honorze i cielesne, narzędzia tortur
-Gąsiąsry (dyby są niehistoryczne)
+Gąsiory (dyby są niehistoryczne)
 Kuna
 
 # Sfragistyka z podręcznika
@@ -256,5 +256,23 @@ Pismo kodeksowe i dyplomatyczne
 
 relief pisma światłcień - inne grubości kresek. 
 
-
-
+Actum anno Domini M° CC septuagesimo secundo, XIIII Kalendas Iunii, indictione XV
+Acta sunt haec anno Domini M° C° C° LX° octavo die Lune post diem Beate Trinitatis
+Anno Domini M° CC° nonagesimo in die beati Iacobi apostoli
+XIII° Kalendas Marcii anno Domini M° C°C°C° VII°
+In die beate Katherine, anno Domini M° CCC° vicesimo quarto
+VIII Kalendas Februarii, indictione XI, regni nostri anno quinto, imperii vero primo [Henrici VII]
+Datum Auinione, V Nonis Iulii, pontificatus nostri [Ioannis XXII] anno tertiodecimo
+Actum Cracouie in octava beati Wincencii martiris, anno Domini M° CCC° XXX°
+In crastino beati Jeronimi, anno Domini M° CCC XXX° sexto
+Die dominica post octavam beati Adalberti, sub anno Nativitatis Domini M° CCC° quadregesimo primo
+Feria IIII proxima post Petri et Pauli apostolorum anno Domini M° CCC° LXX quinto
+Sub anno Incarnacionis Domini M° C° C° C° LXXXI° feria quinta proxima post festum sancte Dorothe virginis et martiris gloriose
+Feria quarta proxima ante dominicam Letare, anno Domini M° CCC° LXXX° secundo
+VIIII Kalendas Novembris pontificatus domini nostri Urbani pape VI anno undecimo
+Datum et actum proxima feria quarta post Epyfaniam Domini, sub anno Domini millesimo trecentesimo nonagesimo tercio
+Feria quinta proxima ante dominicam Judica me, sub anno Domini millesimo trecentesimo nonagesimo sexto
+Sabbato proximo post diem Assumpcionis Beate Marie Virginis Gloriose, anno Domini millesimo trecentesimo nonagesimo octavo
+XIII Kalendas Augusti, potificatus nostri [Bonifacii IX] anno undecimo
+Feria quinta proxima post dominicam Invocavit, anno Domini millesimo quadringentesimo secundo
+Feria quarta infra octavas Corporis Cristi, anno Domini millesimo quadringentesimo 8°

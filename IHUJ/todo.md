@@ -9,21 +9,16 @@
 - [x] 06.06 - zerówka Rzym o godzinie 11
 - [x] 10.06 - zerówka Bizancjum
 - [x] 12.06 - Drugi Dobosz
-- [ ] 17.06 - rzym o 11
-- [ ] 18.06 - 9 45 witecki, nph o 13 w Tischnerze 
-- [ ] 23.06 - mrucus
+- [x] 17.06 - rzym o 11
+- [x] 18.06 - 9 45 witecki, nph o 13 w Tischnerze 
+- [x] 23.06 - mrucus
 - [ ] 26.06 - archeologia o 11, Szczepański o 9 
 - [ ] 27.06 - Piegdoń o 13
 # Co zrobić?
 - [x] Tablica ascendentów
-- [x] Baza Rzym
-- [x] Aleksy komnen na turlanie
 - [x] Książka 
 - [x] Artykuł
 - [x] Źródło
-- [x] Baza Bizancjum
-- [ ] Baza Dobosz 2
-- [ ] Mruk
 # W sesji letniej:
 1. Test NPH
 2. Egzamin NPH
