@@ -12,9 +12,9 @@
 - [x] 17.06 - rzym o 11
 - [x] 18.06 - 9 45 witecki, nph o 13 w Tischnerze 
 - [x] 23.06 - mrucus
-- [ ] 26.06 - archeologia o 11, Szczepański o 9 
+- [ ] 26.06 - archeologia o 11, Szczepański o 9
 - [ ] 27.06 - Piegdoń o 13
-# Co zrobić?
+# Co zrobić?    
 - [x] Tablica ascendentów
 - [x] Książka 
 - [x] Artykuł

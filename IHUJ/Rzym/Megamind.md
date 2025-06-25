@@ -247,7 +247,7 @@ Hannibal po prostu mordował ludzi.
 Ludzie migrowali do rzymu, a to go osłabiało bo ci ludzie pochodzili z kolonii i był to duży minus. \
 201 - koniec drugiej wojny punickiej - kosnul chciał wojnę z macedonią - po raz pierwszy sprzeciwił się lud. Od tamtej pory pojawiają się problemy z rekrutami. 
 
-# Wykład 6: Grakchowie
+ Wykład 6: Grakchowie
 Były wśród arystokracji różnych opcji politycznych próby rozwiązania problemów rzymu w latach 60.
 Katon - ,,Ager publicus w rękach osób prywatnych nie powinien przekraczać pewnego areału''   
 Inicjatywa wychodzi ze strony obozu scypiona afrykańskiego młodszego - od lewiusza

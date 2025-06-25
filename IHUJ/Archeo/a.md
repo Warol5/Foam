@@ -10,8 +10,7 @@ Dla której kultury typowe są grobowce megalityczne (kopce kujawskie)? Dla kult
 Kamienne topory bojowe występują szczególnie w kurhanach kultury:Kamienne topory bojowe występują szczególnie w kurhanach kultury: Ceramiki sznurowej.
 Kiedy na ziemiach polskich wprowadzono radło drewniane? W eneolicie.
 Zmiana w gospodarce w okresie eneolitu w stosunku do neolitu polegała na: Wprowadzeniu drewnianego radła.
-Epoka brązu na ziemiach polskich rozpoczęła się około: 2200/2100 p. n. e.
-Na jakich terenach w Polsce występowała kultura unietycka?: Na terenach środkowego Śląska, Dolnego Śląska i zachodniej Wielkopolski, (na terenach ziemi lubuskiej, Pomorza i Kujaw wykształciły się synkretyczne grupy łączące cechy eneolityczne z unietyckimi).
+ Na jakich terenach w Polsce występowała kultura unietycka?: Na terenach środkowego Śląska, Dolnego Śląska i zachodniej Wielkopolski, (na terenach ziemi lubuskiej, Pomorza i Kujaw wykształciły się synkretyczne grupy łączące cechy eneolityczne z unietyckimi).
 Tzw. groby książęce są spotykane w epoce brązu w kulturze: Unietyckiej
 Ciałopalenie w dorzeczu Odry i Wisły upowszechniło się około: 1400 - 1100 p. n. e.
 Najczęściej spotykana forma cmentarzyska w kulturze łużyckiej, to: Pole popielnicowe.
@@ -60,3 +59,27 @@ W pierwszej połowie VI w. n.e. na terenie pomiędzy środkowym biegiem Dniepru,
 Podstawowe warianty kultury wczesnosłowiański ej to: -	praska -	kołoczyńska  -	pieńkowska
 Podstawowe formy osadnictwa w fazie wczesnosłowiański ej to: osady otwarte niewielkich rozmiarów, rozmieszczone wzdłuż cieków wodnych.
 Kiedy na terenach współczesnej Polski pojawili się pierwsi Słowianie? Około VI wieku.
+Genezę kultury lateńskiej wywodzić należy: z kultury zachodniohalsztackiej
+Celtyckie formy mennicze na ziemiach polskich odkryto w: Krakowie-Mogile
+Najstarsze ślady pobytu Celtów na ziemiach polskich z fazy La Tene B1 znane są z: środkowego Śląska i Płaskowyżu Głubczyckiego
+Zwyczaj rytualnego niszczenia darów grobowych, zwłaszcza uzbrojenia w kulturze lateńskiej jest charakterystyczny dla fazy: La Tene B
+W Małopolskie najstarsze groby celtyckie znane są z fazy: La Tene B1
+Wędrówka Bastarnów i Skirów nad Morze Czarne przez ziemie polskie nastąpiła: przed 230r. przed Chr.
+Miejsce zwycięskiej bitwy Arminiusza z rzymskimi legionami w Lesie Teutoburskim w 9 r. po Chr. jest zidentyfikowane na podstawie konfrontacji przekazów pisanych i przesłanek archeologicznych z: Kalkriese koło Osnabruck
+Laugaricio czyli obóz rzymski Maximusa na terytorium Kwadów z czasów wojen markomańskich, w którym legioniści przezimowali na przełomie sezonów 179/180 należy identyfikować na podstawie epigrafiki z dzisiejszym: Trenczynem
+Ludność kultury puchowskiej znanej z karpackich terenów ziem polskich i Słowacji należy identyfikować z: celtyckimi Kotynami
+Twórców kultury przeworskiej we wczesnym okresie wpływów rzymskich identyfikujemy na podstawie przekazów pisanych: ze Związkiem Lugijskim z przekazu Tacyta
+Ludność kultury wielbarskiej w fazie cecelskiej należy identyfikować z: plemionami germańskich Gotów i Gepidów
+Ludność kultury luboszyckiej identyfikuje się z: germańskimi Wandalami
+Geneza kultury wczesnosłowiańskiej łączona jest z: kulturą kijowską
+Słowianie pojawili się na terenie Polski (w jej obecnych granicach): około 2500 lat temu
+Jordanes dzielił Słowian w VI wieku na: Sklawenów, Antów i Wenedów
+Podstawowe warianty kultury wczesnosłowiańskiej z początków średniowiecza to: kultura praska, Pieńkówka i Kołoczyn
+W I poł. VI wieku po Chr. na terenie pomiędzy środkowym biegiem Dniepru, górną Wisłą i deltą Dunaju rozwijała się kultura: Pieńkówka
+Ciałopalny nakurhanowy obrządek pogrzebowy pojawia się w Małopolsce i na Górnym Śląsku w: 2 poł. VII wieku
+Najważniejsze grody wczesnopiastowskie w Wielkopolsce mają początki datowane dendrochronologicznie na: I poł. X wieku
+Wśród praktyk pogrzebowych Słowian z terenu Małopolski i Górnego Śląska dominuje: jamowy pochówek całopalny
+Twórców kultury lateńskiej możemy identyfikować z: Celtami
+Celtowie na ziemiach polskich pojawili się w: 400-350 pne (IV wiek pne)
+Któremu z gatunków hominidów można przypisać najstarsze znaleziska z terenu Polski: homo erectus
+Najstarsze małopolskie groby celtyckie znane są z: fazy LT B2 (320-270 pne)
